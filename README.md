@@ -1,0 +1,2 @@
+# stokTakip
+stok takip uygulaması
